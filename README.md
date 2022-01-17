@@ -30,6 +30,10 @@ Mycroft is a hackable open source voice assistant.
 - [Getting Involved](#getting-involved)
 - [Links](#links)
 
+###
+###!!! ENGADIDO gl-es en mycroft/res/text
+###
+
 ## Getting Started
 
 First, get the code on your system!  The simplest method is via git ([git installation instructions](https://gist.github.com/derhuerst/1b15ff4652a867391f03)):
